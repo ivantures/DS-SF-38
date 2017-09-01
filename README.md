@@ -7,7 +7,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | Class | Date | Topic | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---:|:---|:---|:---|
 | [01](./classes/01) | 8/29 | [What is Data Science](./classes/01) | | |
-| 02 | 8/31 | Python | | |
+| [02](./classes/02) | 8/31 | [Python](./classes/02) | | |
 | 03 | 9/5 | _pandas_ | | |
 | 04 | 9/7 | Databases and Scrapping | | |
 | 05 | 9/12 | Exploratory Data Analysis | | |
@@ -31,17 +31,18 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Lead Instructor:** [Ivan Corneillet](mailto:ivan@paspeur.com)
 
-**Associate Instructors:** TBD
+**Associate Instructor:** [Alex Chao](mailto:alexchao56@gmail.com)
 
 **Course Producer:** [Matt Jones](mailto:matthew.jones@generalassemb.ly)
 
 ## Office Hours
 
+- Alex: TBD
 - Ivan: On demand; check sign-up sheet; usually just before class
 
 ## Slack
 
-You've all been invited to use [Slack](https://ds-sf-38.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students.  TBD will be on Slack during class and office hours to handle questions.
+You've all been invited to use [Slack](https://ds-sf-38.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students.  Alex will be on Slack during class and office hours to handle questions.
 
 ## Unit Projects
 
@@ -61,4 +62,4 @@ You've all been invited to use [Slack](https://ds-sf-38.slack.com) for chat duri
 
 ## Exit Tickets
 
-[Fill me out at the end of each class!](http://tiny.cc/ds-sf-38)
+[Fill me out at the end of each class!](http://tinyurl.com/ds-sf-38)
