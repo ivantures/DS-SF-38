@@ -37,8 +37,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Office Hours
 
-- Alex: TBD
-- Ivan: On demand; check sign-up sheet; usually just before class
+- Alex: Saturdays, 12 PM to 2 PM @ GA
+- Ivan: On demand; check the sign-up sheet on Slack
 
 ## Slack
 
