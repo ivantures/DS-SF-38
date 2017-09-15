@@ -11,7 +11,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [03](./classes/03) | 9/5 | [_pandas_](./classes/03) | | |
 | [04](./classes/04) | 9/7 | [Databases and Scrapping](./classes/04) | | |
 | [05](./classes/05) | 9/12 | [Exploratory Data Analysis](./classes/05) | | |
-| 06 | 9/14 | _k_-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
+| [06](./classes/06) | 9/14 | [_k_-Nearest Neighbors](./classes/06) | **[Unit Project 1](./unit-project/1)** | |
 | 07 | 9/19 | Data Wrangling and Exploratory Data Analysis Challenge | | **[Unit Project 1](./unit-project/1)** |
 | 08 | 9/21 | Linear Regression | **[Final Project 1](./final-project/1)** | |
 | 09 | 9/26 | Linear Regression, Part 2 | **[Unit Project 2](./unit-project/2)** | |
