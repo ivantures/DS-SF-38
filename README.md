@@ -15,7 +15,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 07 | 9/19 | Data Wrangling and Exploratory Data Analysis Challenge | | **[Unit Project 1](./unit-project/1)** |
 | [08](./classes/08) | 9/21 | [Linear Regression](./classes/08) | **[Final Project 1](./final-project/1)** | |
 | [09](./classes/09) | 9/26 | [Linear Regression, Part 2](./classes/09) | **[Unit Project 2](./unit-project/2)** | |
-| 10 | 9/28 | Linear Regression, Part 3 | | **[Final Project 1](./final-project/1)** |
+| [10](./classes/10) | 9/28 | [Linear Regression, Part 3](./classes/10) | | **[Final Project 1](./final-project/1)** |
 | 11 | 10/3 | Regularization | | **[Unit Project 2](./unit-project/2)** |
 | 12 | 10/5 | Logistic Regression | | |
 | 13 | 10/10 | Machine Learning Modeling Challenge | **[Final Project 2](./final-project/2)** | |
