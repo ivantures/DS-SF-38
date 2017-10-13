@@ -19,7 +19,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [11](./classes/11) | 10/3 | [Regularization](./classes/11) | | **[Unit Project 2](./unit-project/2)** |
 | [12](./classes/12) | 10/5 | [Logistic Regression](./classes/12) | | |
 | 13 | 10/10 | Machine Learning Modeling Challenge | **[Final Project 2](./final-project/2)** | |
-| 14 | 10/12 | Trees | **[Unit Project 3](./unit-project/3)** | |
+| [14](./classes/14) | 10/12 | [Trees](./classes/14) | **[Unit Project 3](./unit-project/3)** | |
 | 15 | 10/17 | Intermediate Project Presentations | | **[Final Project 2](./final-project/2)** |
 | 16 | 10/19 | Review | | **[Unit Project 3](./unit-project/3)** |
 | 17 | 10/24 | Machine Learning Modeling Challenge, Take 2 | | |
