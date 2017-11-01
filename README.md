@@ -24,7 +24,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 16 | 10/19 | Review | | **[Unit Project 3](./unit-project/3)** |
 | 17 | 10/24 | Machine Learning Modeling Challenge, Take 2 | | |
 | [18](./classes/18) | 10/26 | [Natural Language Processing](./classes/18) | | |
-| 19 | 10/31 | Time Series | | |
+| [19](./classes/19) | 10/31 | [Time Series](./classes/19) | | |
 | 20 | 11/2 | Final Project Presentations and Wrap-Up | **[Final Project 3](./final-project/3)** | **[Final Project 3](./final-project/3)** |
 
 ## Your Team
